@@ -12,7 +12,7 @@
 ![image](https://user-images.githubusercontent.com/123872661/217993349-a823a0f6-61a6-492f-a455-6e36619cecce.png)
 
 
-##hasil run
+## HASIL RUN
 
 ![image](https://user-images.githubusercontent.com/123872661/217999860-0e3d8554-04a0-4f32-9467-94d81f823f7c.png)
 
